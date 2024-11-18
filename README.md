@@ -5,7 +5,7 @@ I'm a Unity developer who has been interested in the engine since 2021 and start
 
 ## My skills
 
-imgs
+![Fluter](https://img.shields.io/badge/:badgeContent)
 
 ## Contact me
 
