@@ -11,12 +11,8 @@ imgs
 
 - Edixor 
 
-## Навыки
+## Contact me
 
-- Язык программирования: Python, JavaScript, Java, и т.д.
-- Инструменты: Git, Docker, и т.д.
+ссылка на тг
 
-## Связь со мной
 
-- LinkedIn: [Ваш профиль на LinkedIn](ссылка)
-- Twitter: [Ваш профиль на Twitter](ссылка)
