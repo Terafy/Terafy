@@ -7,10 +7,9 @@ I'm a Unity developer who has been interested in the engine since 2021 and start
 
 imgs
 
-## Мои проекты
+## My projects
 
-- [Проект 1](ссылка на проект) - Краткое описание проекта.
-- [Проект 2](ссылка на проект) - Краткое описание проекта.
+- Edixor 
 
 ## Навыки
 
