@@ -7,11 +7,11 @@ I'm a Unity developer who has been interested in the engine since 2021 and start
 
 ## My skills
 
-![Telegram](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
-![Telegram](https://img.shields.io/badge/C%23%20csharp-black?style=for-the-badge&logo=C%23)
+![unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
+![csharp](https://img.shields.io/badge/C%23%20csharp-black?style=for-the-badge&logo=C%23)
 
 ## Contact me
 
-ссылка на тг
+[![Telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram)](https://t.me/Ton3572)
 
 
