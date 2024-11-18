@@ -5,7 +5,7 @@ I'm a Unity developer who has been interested in the engine since 2021 and start
 
 ## My skills
 
-картинки
+imgs
 
 ## Мои проекты
 
