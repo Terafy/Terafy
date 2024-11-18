@@ -9,8 +9,6 @@ imgs
 
 ## My projects
 
-# My Projects
-
 | Project Name | Creation Date | Stars | Link |
 |--------------|---------------|-------|------|
 | Project 1    | 2024-01-01    | ⭐⭐⭐   | [View](https://github.com/yourusername/project1) |
