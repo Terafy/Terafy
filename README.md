@@ -11,6 +11,7 @@ I'm a Unity developer who has been interested in the engine since 2021 and start
 ![csharp](https://img.shields.io/badge/C%23%20csharp-black?style=for-the-badge&logo=C%23)
 ![GamePush](https://img.shields.io/badge/Game%20Push-black?style=for-the-badge&logo=https://example.com/gamepush-logo.svg)
 ![GamePush](https://img.shields.io/badge/Game%20Push-black?style=for-the-badge&logo=https://i.imgur.com/VZG2mz6.png)
+![GamePush](https://img.shields.io/badge/Game%20Push-black?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUg...)
 
 ## Contact me
 
