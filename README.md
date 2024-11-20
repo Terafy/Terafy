@@ -1,1 +1,1 @@
-![test](https://github.com/Terafy/Terafy/blob/main/assets/Новый проект(11).png)
+![test](https://github.com/Terafy/Terafy/blob/main/assets/Новый%20проект%20(11).png)
