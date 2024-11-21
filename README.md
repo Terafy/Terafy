@@ -9,7 +9,11 @@ I'm a Unity developer who has been interested in the engine since 2021 and start
 
 ![unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
 ![csharp](https://img.shields.io/badge/C%23%20csharp-black?style=for-the-badge&logo=C%23)
+![gamepush](https://img.shields.io/badge/GP%20Game%20Push-black?style=for-the-badge&logo=C%23)
+![dotween](https://img.shields.io/badge/[>]%20DOTween-black?style=for-the-badge&logo=C%23)
+![zenject](https://img.shields.io/badge/<Z>%20Zenject-black?style=for-the-badge&logo=C%23)
 
 ## Contact me
 
-[![Telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram)](https://t.me/Ton3572)
+[![telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram)](https://t.me/Ton3572)
+[![discord](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=discord)](https://t.me/Ton3572)
