@@ -3,4 +3,5 @@
 ![test](https://github.com/Terafy/Terafy/blob/main/assets/Новый%20проект%20(14).png)
 ![test](https://github.com/Terafy/Terafy/blob/main/assets/Новый%20проект%20(13).png)
 
-![Test](https://img.shields.io/badge/GP-GamePush-green)
+![GP](https://img.shields.io/badge/GP-black?style=flat-square)
+![GamePush](https://img.shields.io/badge/GamePush-green?style=flat-square)
