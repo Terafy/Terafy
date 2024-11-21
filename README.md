@@ -1,7 +1,15 @@
-![test](https://github.com/Terafy/Terafy/blob/main/assets/Новый%20проект%20(11).png)
-![test](https://github.com/Terafy/Terafy/blob/main/assets/Новый%20проект%20(12).png)
-![test](https://github.com/Terafy/Terafy/blob/main/assets/Новый%20проект%20(14).png)
-![test](https://github.com/Terafy/Terafy/blob/main/assets/Новый%20проект%20(13).png)
+## Hello everyone! 👋
 
-![GP](https://img.shields.io/badge/GP-black?style=flat-square)
-![GamePush](https://img.shields.io/badge/GamePush-green?style=flat-square)
+![Telegram](https://github.com/Terafy/Terafy/blob/main/assets/%D0%A0%D1%80%D0%B8%D1%80_20241118_184950_0000.png)
+
+I'm a Unity developer who has been interested in the engine since 2021 and started full-time work in 2023. Now I'm here to share tools for Unity and project templates.
+
+
+## My skills
+
+![unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
+![csharp](https://img.shields.io/badge/C%23%20csharp-black?style=for-the-badge&logo=C%23)
+
+## Contact me
+
+[![Telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram)](https://t.me/Ton3572)
