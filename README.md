@@ -16,4 +16,4 @@ I'm a Unity developer who has been interested in the engine since 2021 and start
 ## Contact me
 
 [![telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram)](https://t.me/Ton3572)
-[![discord](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=discord)](https://t.me/Ton3572)
+[![discord](https://img.shields.io/badge/discord-black?style=for-the-badge&logo=discord)](https://t.me/Ton3572)
