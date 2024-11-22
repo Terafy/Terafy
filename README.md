@@ -2,7 +2,7 @@
 
 ![Terafy](https://github.com/Terafy/Terafy/blob/main/assets/%D0%A0%D1%80%D0%B8%D1%80_20241118_184950_0000.png)
 
-I've been interested in Unity since 2021, but in 2023, I started full-fledged work in Unity, primarily developing projects for web platforms using the GamePush SDK. In addition to working with Unity, I am interested in game design and team organization.
+I've been interested in Unity since 2021, but in 2023, I started full-fledged work in Unity, primarily developing projects for web platforms using the GamePush SDK. In 2024, I teamed up with a friend to found our indie studio, TonTeraf. In addition to working with Unity, I am interested in game design and team organization.
 
 ## My skills
 
