@@ -1,6 +1,6 @@
 ## Hello everyone! 👋
 
-![Terafy](https://github.com/Terafy/Terafy/blob/main/assets/%D0%A0%D1%80%D0%B8%D1%80_20241118_184950_0000.png)
+![Terafy](https://github.com/Terafy/Terafy/blob/main/assets/banner.png)
 
 I've been interested in Unity since 2021, but in 2023, I got into Unity, primarily developing projects for web platforms using the GamePush SDK. In 2024, I teamed up with a friend @KoGu1 to found our indie studio, TonTeraf. Besides working with Unity, I am interested in game design and team organization.
 
