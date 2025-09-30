@@ -2,11 +2,14 @@
 
 # Hi, I'm Terafy 👋
 
-I’ve been into Unity since 2021, and in 2023 I started actively developing projects for **web platforms**.  
-In 2024, together with my friend **KoGu71**, I co-founded the indie studio **TonTeraf**.  
+I've been into Unity since 2021, and in 2023 I started actively
+developing projects for **web platforms**.\
+In 2024, together with my friend **KoGu71**, I co-founded the indie
+studio **TonTeraf**.
 
-Besides Unity development, I’m passionate about **game design**, **team organization**, and creating new gameplay experiences.
-
+I also have strong knowledge of **Unity Editor**, experience with **UI
+Toolkit** and **IMGUI**.\
+I created my own tool **Edixor**, aimed at developing future extensions.
 ---
 
 ## ⚡ Skills
