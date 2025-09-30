@@ -7,9 +7,9 @@ developing projects for **web platforms**.\
 In 2024, together with my friend **KoGu71**, I co-founded the indie
 studio **TonTeraf**.
 
-I also have strong knowledge of **Unity Editor**, experience with **UI
-Toolkit** and **IMGUI**.\
-I created my own tool **Edixor**, aimed at developing future extensions.
+I also have strong knowledge of Unity Editor, experience with UI
+Toolkit and IMGUI.\
+I created my own tool Edixor, aimed at developing future extensions.
 ---
 
 ## ⚡ Skills
